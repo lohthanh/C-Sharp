@@ -1,0 +1,15 @@
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsI\bin\Debug\net7.0\FundamentalsI.exe
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsI\bin\Debug\net7.0\FundamentalsI.deps.json
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsI\bin\Debug\net7.0\FundamentalsI.runtimeconfig.json
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsI\bin\Debug\net7.0\FundamentalsI.dll
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsI\bin\Debug\net7.0\FundamentalsI.pdb
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsI\obj\Debug\net7.0\FundamentalsI.csproj.AssemblyReference.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsI\obj\Debug\net7.0\FundamentalsI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsI\obj\Debug\net7.0\FundamentalsI.AssemblyInfoInputs.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsI\obj\Debug\net7.0\FundamentalsI.AssemblyInfo.cs
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsI\obj\Debug\net7.0\FundamentalsI.csproj.CoreCompileInputs.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsI\obj\Debug\net7.0\FundamentalsI.dll
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsI\obj\Debug\net7.0\refint\FundamentalsI.dll
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsI\obj\Debug\net7.0\FundamentalsI.pdb
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsI\obj\Debug\net7.0\FundamentalsI.genruntimeconfig.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsI\obj\Debug\net7.0\ref\FundamentalsI.dll

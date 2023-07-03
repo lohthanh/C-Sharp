@@ -1,0 +1,15 @@
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\HelloDotNet\bin\Debug\net7.0\HelloDotNet.exe
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\HelloDotNet\bin\Debug\net7.0\HelloDotNet.deps.json
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\HelloDotNet\bin\Debug\net7.0\HelloDotNet.runtimeconfig.json
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\HelloDotNet\bin\Debug\net7.0\HelloDotNet.dll
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\HelloDotNet\bin\Debug\net7.0\HelloDotNet.pdb
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\HelloDotNet\obj\Debug\net7.0\HelloDotNet.csproj.AssemblyReference.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\HelloDotNet\obj\Debug\net7.0\HelloDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\HelloDotNet\obj\Debug\net7.0\HelloDotNet.AssemblyInfoInputs.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\HelloDotNet\obj\Debug\net7.0\HelloDotNet.AssemblyInfo.cs
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\HelloDotNet\obj\Debug\net7.0\HelloDotNet.csproj.CoreCompileInputs.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\HelloDotNet\obj\Debug\net7.0\HelloDotNet.dll
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\HelloDotNet\obj\Debug\net7.0\refint\HelloDotNet.dll
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\HelloDotNet\obj\Debug\net7.0\HelloDotNet.pdb
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\HelloDotNet\obj\Debug\net7.0\HelloDotNet.genruntimeconfig.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\HelloDotNet\obj\Debug\net7.0\ref\HelloDotNet.dll
