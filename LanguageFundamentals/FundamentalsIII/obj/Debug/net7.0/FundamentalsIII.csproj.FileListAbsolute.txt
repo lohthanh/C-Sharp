@@ -1,0 +1,15 @@
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsIII\bin\Debug\net7.0\FundamentalsIII.exe
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsIII\bin\Debug\net7.0\FundamentalsIII.deps.json
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsIII\bin\Debug\net7.0\FundamentalsIII.runtimeconfig.json
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsIII\bin\Debug\net7.0\FundamentalsIII.dll
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsIII\bin\Debug\net7.0\FundamentalsIII.pdb
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsIII\obj\Debug\net7.0\FundamentalsIII.csproj.AssemblyReference.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsIII\obj\Debug\net7.0\FundamentalsIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsIII\obj\Debug\net7.0\FundamentalsIII.AssemblyInfoInputs.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsIII\obj\Debug\net7.0\FundamentalsIII.AssemblyInfo.cs
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsIII\obj\Debug\net7.0\FundamentalsIII.csproj.CoreCompileInputs.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsIII\obj\Debug\net7.0\FundamentalsIII.dll
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsIII\obj\Debug\net7.0\refint\FundamentalsIII.dll
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsIII\obj\Debug\net7.0\FundamentalsIII.pdb
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsIII\obj\Debug\net7.0\FundamentalsIII.genruntimeconfig.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\FundamentalsIII\obj\Debug\net7.0\ref\FundamentalsIII.dll
