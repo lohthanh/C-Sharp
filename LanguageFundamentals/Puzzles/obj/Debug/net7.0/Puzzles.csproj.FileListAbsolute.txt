@@ -1,0 +1,15 @@
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\Puzzles\bin\Debug\net7.0\Puzzles.exe
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\Puzzles\bin\Debug\net7.0\Puzzles.deps.json
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\Puzzles\bin\Debug\net7.0\Puzzles.runtimeconfig.json
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\Puzzles\bin\Debug\net7.0\Puzzles.dll
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\Puzzles\bin\Debug\net7.0\Puzzles.pdb
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\Puzzles\obj\Debug\net7.0\Puzzles.csproj.AssemblyReference.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\Puzzles\obj\Debug\net7.0\Puzzles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\Puzzles\obj\Debug\net7.0\Puzzles.AssemblyInfoInputs.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\Puzzles\obj\Debug\net7.0\Puzzles.AssemblyInfo.cs
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\Puzzles\obj\Debug\net7.0\Puzzles.csproj.CoreCompileInputs.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\Puzzles\obj\Debug\net7.0\Puzzles.dll
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\Puzzles\obj\Debug\net7.0\refint\Puzzles.dll
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\Puzzles\obj\Debug\net7.0\Puzzles.pdb
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\Puzzles\obj\Debug\net7.0\Puzzles.genruntimeconfig.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\Puzzles\obj\Debug\net7.0\ref\Puzzles.dll
