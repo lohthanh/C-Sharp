@@ -1,0 +1,15 @@
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperI\obj\Debug\net7.0\GameDeveloperI.csproj.AssemblyReference.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperI\obj\Debug\net7.0\GameDeveloperI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperI\obj\Debug\net7.0\GameDeveloperI.AssemblyInfoInputs.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperI\obj\Debug\net7.0\GameDeveloperI.AssemblyInfo.cs
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperI\obj\Debug\net7.0\GameDeveloperI.csproj.CoreCompileInputs.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperI\bin\Debug\net7.0\GameDeveloperI.exe
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperI\bin\Debug\net7.0\GameDeveloperI.deps.json
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperI\bin\Debug\net7.0\GameDeveloperI.runtimeconfig.json
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperI\bin\Debug\net7.0\GameDeveloperI.dll
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperI\bin\Debug\net7.0\GameDeveloperI.pdb
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperI\obj\Debug\net7.0\GameDeveloperI.dll
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperI\obj\Debug\net7.0\refint\GameDeveloperI.dll
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperI\obj\Debug\net7.0\GameDeveloperI.pdb
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperI\obj\Debug\net7.0\GameDeveloperI.genruntimeconfig.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperI\obj\Debug\net7.0\ref\GameDeveloperI.dll
