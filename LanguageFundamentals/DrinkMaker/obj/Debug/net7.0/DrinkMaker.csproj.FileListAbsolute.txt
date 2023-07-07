@@ -1,0 +1,15 @@
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\DrinkMaker\bin\Debug\net7.0\DrinkMaker.exe
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\DrinkMaker\bin\Debug\net7.0\DrinkMaker.deps.json
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\DrinkMaker\bin\Debug\net7.0\DrinkMaker.runtimeconfig.json
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\DrinkMaker\bin\Debug\net7.0\DrinkMaker.dll
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\DrinkMaker\bin\Debug\net7.0\DrinkMaker.pdb
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\DrinkMaker\obj\Debug\net7.0\DrinkMaker.csproj.AssemblyReference.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\DrinkMaker\obj\Debug\net7.0\DrinkMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\DrinkMaker\obj\Debug\net7.0\DrinkMaker.AssemblyInfoInputs.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\DrinkMaker\obj\Debug\net7.0\DrinkMaker.AssemblyInfo.cs
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\DrinkMaker\obj\Debug\net7.0\DrinkMaker.csproj.CoreCompileInputs.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\DrinkMaker\obj\Debug\net7.0\DrinkMaker.dll
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\DrinkMaker\obj\Debug\net7.0\refint\DrinkMaker.dll
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\DrinkMaker\obj\Debug\net7.0\DrinkMaker.pdb
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\DrinkMaker\obj\Debug\net7.0\DrinkMaker.genruntimeconfig.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\DrinkMaker\obj\Debug\net7.0\ref\DrinkMaker.dll
