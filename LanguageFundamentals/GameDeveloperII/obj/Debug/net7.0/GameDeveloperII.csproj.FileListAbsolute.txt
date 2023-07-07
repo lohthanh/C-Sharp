@@ -1,0 +1,15 @@
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperII\obj\Debug\net7.0\GameDeveloperII.csproj.AssemblyReference.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperII\obj\Debug\net7.0\GameDeveloperII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperII\obj\Debug\net7.0\GameDeveloperII.AssemblyInfoInputs.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperII\obj\Debug\net7.0\GameDeveloperII.AssemblyInfo.cs
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperII\obj\Debug\net7.0\GameDeveloperII.csproj.CoreCompileInputs.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperII\bin\Debug\net7.0\GameDeveloperII.exe
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperII\bin\Debug\net7.0\GameDeveloperII.deps.json
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperII\bin\Debug\net7.0\GameDeveloperII.runtimeconfig.json
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperII\bin\Debug\net7.0\GameDeveloperII.dll
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperII\bin\Debug\net7.0\GameDeveloperII.pdb
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperII\obj\Debug\net7.0\GameDeveloperII.dll
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperII\obj\Debug\net7.0\refint\GameDeveloperII.dll
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperII\obj\Debug\net7.0\GameDeveloperII.pdb
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperII\obj\Debug\net7.0\GameDeveloperII.genruntimeconfig.cache
+C:\Users\lohth\OneDrive\Desktop\CodingDojo\C-Sharp\LanguageFundamentals\GameDeveloperII\obj\Debug\net7.0\ref\GameDeveloperII.dll
