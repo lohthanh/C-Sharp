@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Home Page</title>
+</head>
+
+<body>
+    <h1>Here are some delicious foods!</h1>
+
+        @{
+            List<string> Foods = new List<string>() {"Rainbow Sushi Roll", "Korean BBQ", "Cinnamon Rolls", "Fried Chicken", "Shrimp Gumbo", "Dumplings", "Chocolate Cake"};
+
+                foreach(string word in Foods)
+                {
+                    if(word.Substring(0,1).Contains("C"))
+                    {
+                        <p style="color: red">@word</p>
+                    } else {
+                        <p>@word</p>
+                    }
+                }
+        }
+</body>
+
+</html>
+
