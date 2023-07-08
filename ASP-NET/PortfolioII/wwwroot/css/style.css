@@ -1,0 +1,81 @@
+/* nav bar */
+
+.active-link {
+    color: rgb(245, 12, 12);
+    text-decoration: none;
+}
+
+.transformed {
+    transform: scale(1.1);
+}
+
+/* content body */
+img {
+    width: 200px;
+    height: auto;
+}
+
+.display {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+}
+
+.container {
+    width: 70rem;
+    height: 15rem;
+    margin-left: 20rem;
+    margin-top: 5rem;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+nav {
+    text-align: center;
+    font-size: 25px;
+}
+
+.mL {
+    margin-left: 30px;
+}
+
+body {
+    background-color: rgb(233, 189, 233);
+}
+
+/* project view */
+.projectDisplay {
+    margin-bottom: 20px;
+    justify-content: space-around;
+    width: 50rem;
+    margin-left: 5rem;
+}
+
+/* contact view */
+.contactDisplay {
+    margin-left: 45rem;
+}
+
+input {
+    height: 20px;
+    width: 235px;
+    margin-bottom: 15px;
+}
+
+button {
+    margin-top: 10px;
+    width: 60px;
+    font-size: medium;
+    color: white;
+    background-color: purple;
+    border-radius: 5px;
+}
+
+button:hover {
+    color: purple;
+    background-color: rgb(238, 135, 238);
+}

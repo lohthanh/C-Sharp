@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lohth\\OneDrive\\Desktop\\CodingDojo\\C-Sharp\\ASP-NET\\PortfolioII\\wwwroot\\JS\\script.js",
+      "PackagePath": "staticwebassets\\JS\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\lohth\\OneDrive\\Desktop\\CodingDojo\\C-Sharp\\ASP-NET\\PortfolioII\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\lohth\\OneDrive\\Desktop\\CodingDojo\\C-Sharp\\ASP-NET\\PortfolioII\\wwwroot\\images\\anime-girl-smile.gif",
+      "PackagePath": "staticwebassets\\images\\anime-girl-smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\lohth\\OneDrive\\Desktop\\CodingDojo\\C-Sharp\\ASP-NET\\PortfolioII\\wwwroot\\images\\cute.anime.girl.jpg",
+      "PackagePath": "staticwebassets\\images\\cute.anime.girl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lohth\\OneDrive\\Desktop\\CodingDojo\\C-Sharp\\ASP-NET\\PortfolioII\\wwwroot\\images\\forced.smile.gif",
+      "PackagePath": "staticwebassets\\images\\forced.smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\lohth\\OneDrive\\Desktop\\CodingDojo\\C-Sharp\\ASP-NET\\PortfolioII\\wwwroot\\images\\sawako-scary-smile.gif",
+      "PackagePath": "staticwebassets\\images\\sawako-scary-smile.gif"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.PortfolioII.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.PortfolioII.props",
+      "PackagePath": "build\\PortfolioII.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.PortfolioII.props",
+      "PackagePath": "buildMultiTargeting\\PortfolioII.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.PortfolioII.props",
+      "PackagePath": "buildTransitive\\PortfolioII.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

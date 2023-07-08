@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/style.css">
+    <title>Index Page</title>
+</head>
+
+<body>
+    @*
+    <h1>Hello @ViewBag.Name</h1>
+    <p>@ViewBag.Name is @ViewBag.Number years old.</p>
+    @{
+    ViewBag.Number += 10;
+    <p>@ViewBag.Number</p>
+    }
+
+    @foreach(var dessert in ViewBag.SweetsList)
+    {
+    <p>@dessert</p>
+    } *@
+
+    <nav>
+        <a href="/" id="home-link" class="nav-link">Home</a> | <a href="/projects" id="projects-link" class="nav-link">Projects</a> | <a href="/contact"
+            id="contact-link" class="nav-link">Contact</a>
+    </nav>
+    <h1>About Me</h1>
+    <div class="display container">
+        <div>
+            <img src="~/images/cute.anime.girl.jpg" alt="cute-anime-girl-in-pink">
+            <h3>Leliana Nightingale</h3>
+        </div>
+        <div class="mL">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus doloribus nemo, eaque voluptates,
+                debitis dolorem qui quis fugiat, harum deserunt dolore est. Repellat quisquam minima consequatur sunt!
+                Expedita, eveniet quia.</p>
+        </div>
+    </div>
+
+    <script src="~/JS/script.js"></script>
+</body>
+
+</html>
