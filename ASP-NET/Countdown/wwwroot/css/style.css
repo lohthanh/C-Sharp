@@ -1,0 +1,25 @@
+.border {
+    border: 2px solid black;
+}
+
+.display {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 250px;
+    height: 150px;
+}
+
+.mR {
+    margin-right: 25px;
+}
+
+.padding {
+    padding-left: 15px;
+}
+
+.text-align {
+    text-align: center;
+}

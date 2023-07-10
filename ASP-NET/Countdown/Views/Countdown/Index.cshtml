@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/style.css">
+    <title>Index</title>
+</head>
+
+<body>
+   <div class="display">
+    <div class="border container mR padding">
+        <h1>Start Time</h1>
+       @{
+            DateTime CurrentTime = DateTime.Now;
+            <h3>@CurrentTime.ToString("MMMM dd, yyyy HH:mm tt")</h3>
+        }
+    </div>
+    <div class="border container padding">
+        <h1>End Time</h1>
+        @{
+            DateTime FutureDate = new DateTime(2023, 12, 16, 10, 00, 00);
+            <h3>@FutureDate.ToString("MMMM dd, yyyy HH:mm tt")</h3>
+        }
+    </div>
+    </div>
+    <div  class="display">
+    <div class="text-align">
+        <h1>Time Remaining</h1>
+        @{
+            TimeSpan t = FutureDate - CurrentTime;
+            string countDown = string.Format("{0} Day(s), {1} Hour(s), {2} Minute(s), {3} Second(s) Remaining.", t.Days, t.Hours, t.Minutes, t.Seconds);
+            <h3>@countDown</h3>
+        }
+    </div>
+    </div>
+</body>
+
+</html>
