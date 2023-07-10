@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Results</title>
+</head>
+
+<body>
+    <div>
+        <div>
+            <h3>Name: @ViewBag.Name</h3>
+            <h3>Dojo Location: @ViewBag.Location</h3>
+            <h3>Favorite Language: @ViewBag.Language</h3>
+            @{
+                if (ViewBag.Comment != null)
+                {
+                    <h3>Comment (Optional): @ViewBag.Comment</h3>
+                }
+                else
+                {
+                    <h3>Comment (Optional): <span style="color: gray">No Comment</span> </h3>
+                }
+            }
+        </div>
+        <button><a href="/">Go Back</a></button>
+    </div>
+</body>
+
+</html>
