@@ -1,0 +1,46 @@
+<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+    <div class="container-fluid">
+        <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">SessionWorkshop</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div>
+            <form action="clear" method="post">
+                <h1>Welcome @Context.Session.GetString("Name")!</h1>
+                <p><a href="/" class="btn bg-danger text-light">Logout</a></p>
+            </form>
+        </div>
+    </div>
+</nav>
+<div class="text-center">
+    <h1>@Context.Session.GetInt32("StartValue")</h1>
+    <div class="container d-flex mb-3 mLCenter">
+    <div>
+        <form asp-action="math" method="post">
+            <input hidden name="functionality" value="plusOne" />
+            <button class="btn btn-lg me-3 bg-warning" type="submit">+ 1</button>
+        </form>
+    </div>
+    <div>
+        <form asp-action="math" method="post">
+            <input hidden name="functionality" value="minusOne" />
+            <button class="btn btn-lg bg-primary text-light" type="submit">- 1</button>
+        </form>
+    </div>
+    </div>
+    <div class="container d-flex mLCenter">
+    <div>
+        <form asp-action="math" method="post">
+            <input hidden name="functionality" value="multiply" />
+            <button class="btn btn-lg me-3 bg-danger text-light" type="submit">x 2</button>
+        </form>
+    </div>
+    <div>
+        <form asp-action="math" method="post">
+            <input hidden name="functionality" value="randomNum" />
+            <button class="btn btn-lg bg-success" type="submit">+ Random</button>
+        </form>
+    </div>
+    </div>
+</div>
