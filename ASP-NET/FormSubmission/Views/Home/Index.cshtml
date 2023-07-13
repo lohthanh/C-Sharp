@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model User
+
+<div class="text-center d-flex formContainer">
+    <form asp-action="Create" asp-controller="Home" method="post">
+        <div class="p-2 justify-content-between ">
+            <label class="form-label" asp-for="Name">Name: </label>
+            <input class="form-control" asp-for="Name">
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="p-2">
+            <label class="form-label" asp-for="EmailAddress">Email Address: </label>
+            <input class="form-control" asp-for="EmailAddress">
+            <span asp-validation-for="EmailAddress" class="text-danger"></span>
+        </div>
+        <div class="p-2">
+            <label class="form-label" asp-for="DateOfBirth">Date Of Birth: </label>
+            <input type="date" class="form-control" asp-for="DateOfBirth">
+            <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+        </div>
+        <div class="p-2">
+            <label class="form-label" asp-for="Password">Password: </label>
+            <input class="form-control" asp-for="Password">
+            <span asp-validation-for="Password" class="text-danger"></span>
+        </div>
+        <div class="p-2">
+            <label class="form-label" asp-for="FavoriteOddNumber">Favorite Odd Number:</label>
+            <input type="number" class="form-control" asp-for="FavoriteOddNumber">
+            <span asp-validation-for="FavoriteOddNumber" class="text-danger"></span>
+        </div>
+        <input class="btn btn-outline-success" type="submit" value="Submit">
+    </form>
+</div>
