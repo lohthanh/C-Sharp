@@ -1,0 +1,11 @@
+@model Product
+
+<div class="text-center">
+    <h1>All Products</h1>
+    @{
+        foreach (var p in ViewBag.AllProducts)
+        {
+            <h4><a asp-action="ShowProduct" asp-controller="Product" asp-route-productId="@p.ProductId">@p.Name</a></h4>
+        }
+    }
+</div>

@@ -1,0 +1,11 @@
+@model Category
+
+<div class="text-center">
+    <h1 >All Categories</h1>
+    @{
+        foreach(var p in ViewBag.AllCategories)
+        {
+            <h4><a asp-action="ShowCategory" asp-controller="Category" asp-route-categoryId="@p.CategoryId">@p.Name</a></h4>
+        }
+    }
+</div>
