@@ -1,0 +1,18 @@
+@model Wedding
+
+<div>
+    <h1>@Model.WedderOne & @Model.WedderTwo's Wedding</h1>
+    <h4>@Model.Date.Value.ToShortDateString()</h4>
+    <div>
+        <h4>Guests:</h4>
+        <table class="border border-dark mb-3" style="width: 15rem;">
+            @foreach (Association g in Model.AssociationsFromWedding)
+            {
+                <tr>
+                    <td>@g.User?.FirstName @g.User?.LastName</td>
+                </tr>
+            }
+        </table>
+    </div>
+    <button class="btn-outline-primary"><a asp-action="Wedding" asp-controller="Wedding">Back</a></button>
+</div>

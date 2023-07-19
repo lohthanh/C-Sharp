@@ -1,0 +1,60 @@
+@{
+    int? UserId = Context.Session.GetInt32("UUID");
+}
+
+@model List<Wedding>
+
+<div>
+    <h1>Welcome @Context.Session.GetString("UserName")</h1>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Wedding Of</th>
+                <th>Date</th>
+                <th>Guest Count</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                foreach (Wedding w in Model)
+                {
+                    <tr>
+                        <td><a asp-action="ShowOne" asp-controller="Wedding" asp-route-id="@w.WeddingId">@w.WedderOne &
+                                @w.WedderTwo</a></td>
+                        <td>@w.Date.Value.ToShortDateString()</td>
+                        <td>@w.AssociationsFromWedding.Count</td>
+                        <td>
+                            @if (UserId == w.UserId)
+                            {
+                                <form asp-action="DeleteWedding" asp-controller="Wedding" asp-route-id="@w.WeddingId" method="post">
+                                    <input type="hidden" name="id" value="@w.WeddingId">
+                                    <input type="submit" class="text-danger" value="Delete" />
+                                </form>
+                            }
+                            else
+                            {
+                                <form asp-action="AddUserToWedding" asp-controller="Wedding" method="post">
+                                    <input type="hidden" name="weddingId" value="@w.WeddingId">
+                                    <button type="submit" class="btn-light" style="width: 6rem;">
+                                        @{
+                                            bool rsvp = w.AssociationsFromWedding.Any(w => w.UserId == UserId);
+                                            if (rsvp)
+                                            {
+                                                <span class="text-secondary ">UnRSVP</span>
+                                            }
+                                            else
+                                            {
+                                                <span class="text-primary">RSVP</span>
+                                            }
+                                        }
+                                    </button>
+                                </form>
+                            }
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
